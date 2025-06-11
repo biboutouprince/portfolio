@@ -61,8 +61,8 @@ export function HeroSection() {
             </span>
           </div>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Passionné par le développement web et le design, je crée des
-            solutions numériques modernes et intuitives.
+            Passionné par le développement web, je crée des solutions
+            applicative modernes et intuitives.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" onClick={scrollToAbout}>

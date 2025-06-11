@@ -4,12 +4,12 @@ import { useEffect, useState, useRef } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 const skills = [
-  { name: "ExpressJS, NodeJS", level: 90, color: "bg-orange-500" },
-  { name: "Next.js 15+", level: 80, color: "bg-blue-500" },
-  { name: "JavaScript, React.js", level: 75, color: "bg-yellow-500" },
-  { name: "NextAuth.js", level: 70, color: "bg-purple-500" },
+  { name: "ExpressJS&NodeJS", level: 60, color: "bg-orange-500" },
+  { name: "Next.js15+", level: 50, color: "bg-blue-500" },
+  { name: "API rest, JWT, bcryptjs", level: 45, color: "bg-yellow-500" },
+  { name: "Git", level: 70, color: "bg-purple-500" },
   { name: "Laravel", level: 65, color: "bg-cyan-500" },
-  { name: "ADOBE(Illustrator, Photoshop)", level: 85, color: "bg-blue-600" },
+  { name: "ADOBE(Illustrator, Photoshop)", level: 65, color: "bg-blue-600" },
 ];
 
 export function SkillsSection() {
@@ -128,8 +128,8 @@ function getSkillDescription(skillName: string): string {
     HTML: "Structure et sémantique web",
     CSS: "Styles et animations",
     JavaScript: "Interactivité et logique",
-    Laravel: "Développement backend",
-    React: "Interfaces utilisateur modernes",
+    Laravel: "Développement fullstack php",
+    Git: "versionning",
     Photoshop: "Retouche et création graphique",
   };
   return descriptions[skillName] || "Compétence technique";
