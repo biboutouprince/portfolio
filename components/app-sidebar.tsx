@@ -39,7 +39,7 @@ const navigationItems = [
   { icon: Home, href: "#home", title: "Acceuil" },
   { icon: User, href: "#about", title: "A Propos" },
   { icon: Code, href: "#portfolio", title: "Projets" },
-  { icon: Briefcase, href: "#skills", title: "Experience" },
+  { icon: Briefcase, href: "#skills", title: "Compétences" },
   { icon: Mail, href: "#contact", title: "Contact" },
 ];
 

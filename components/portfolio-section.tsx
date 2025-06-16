@@ -11,7 +11,7 @@ const projects = [
     description:
       "Plateforme de vente en ligne moderne avec panier et paiement sécurisé",
     image: "/placeholder.svg?height=200&width=300",
-    tags: ["React", "Node.js", "Prisma", "Stripe"],
+    tags: ["Typescript", "Node.js", "Prisma", "E-billing"],
     category: "web",
     liveUrl: "https://ecommerce-demo.vercel.app",
     githubUrl: "https://github.com/prince-biboutou/ecommerce-site",
@@ -20,7 +20,7 @@ const projects = [
     title: "OLO'Task",
     description: "App pour la gestion de tâches avec filtre, drag and drop",
     image: "/placeholder.svg?height=200&width=300",
-    tags: ["React", "Node.js", "Prisma", "SQLite"],
+    tags: ["Express.js", "Node.js", "Prisma", "SQLite"],
     category: "mobile",
     liveUrl: "https://play.google.com/store/apps/details?id=com.taskmanager",
     githubUrl: "https://github.com/prince-biboutou/task-manager-app",
@@ -30,7 +30,7 @@ const projects = [
     description:
       "plateforme d'anniversaire permettant de mettre en ligne son anniversaire",
     image: "/placeholder.svg?height=200&width=300",
-    tags: ["React", "Node.js", "Prisma", "SQLite"],
+    tags: ["React", "Express.js", "Prisma", "SQLite"],
     category: "web",
     liveUrl: "https://behance.net/prince-biboutou/startup-branding",
     githubUrl: null, // Pas de GitHub pour un projet de design

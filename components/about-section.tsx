@@ -24,10 +24,10 @@ export function AboutSection() {
               <CardContent className="p-6">
                 <h4 className="text-lg font-semibold mb-4">Présentation</h4>
                 <p className="text-muted-foreground leading-relaxed mb-4">
-                  Développeur web spécialisé en JavaScript (React, Node.js), je
-                  conçois des applications modernes, performantes et évolutives,
-                  en mettant l’accent sur l’expérience utilisateur et la qualité
-                  du code.
+                  Développeur web spécialisé en JavaScript (Express.js,
+                  Node.js), je conçois des applications modernes, performantes
+                  et évolutives, en mettant l’accent sur l’expérience
+                  utilisateur et la sécurité du code.
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
                   Je développe des solutions full-stack robustes, de l’interface
